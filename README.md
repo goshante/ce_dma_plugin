@@ -19,8 +19,7 @@ To compile it's on your own, you have to manualy download next repositories:
 12. Now your added plugin will work
 
 ## Download precompiled plugin binaries
-You can just skip this pain-in-ass steps and download my precompiled plugin (Precompiled files are in current repository, you can see). Just put it into CE 7.5 directory and agree to replace **lua53-64.dll**. It should work perfectly, just **don't forget to add it into plugin list in CE Settings and check it enabled**.
-If not working try to install **MSVC 2022 x64 Runtime Redistributable** package from official Microsoft site.
+You can skip these tedious steps and simply download my precompiled plugin (the precompiled files are available in the current repository). Just place it in the CE 7.5 directory and agree to replace lua53-64.dll. It should work perfectly. Just remember to **add it to the plugin list in CE Settings and ensure it's enabled**. If it doesn't work, try installing the **MSVC 2022 x64 Runtime Redistributable** package from the official Microsoft website.
 
 ## How to check if it works
-After installing and activating plugin console window with logs will show up and when you open process list in CE to attach you will see all processess of your DMA Host PC. If you have DMA card USB connected it have to detect it immediately and list all processess of your Host PC, you don't have to install extra drivers or something else, DMA USB interface is usually Plug & Play on Windows (Tested on CaptainDMA board, works perfectly).
+After installing and activating the plugin, a console window with logs will appear. When you open the process list in CE to attach, you will see all the processes of your DMA Host PC. If you have a DMA card connected via USB, it should be detected immediately and list all the processes of your Host PC. There’s no need to install extra drivers or anything else; the DMA USB interface is usually Plug & Play on Windows (tested on the CaptainDMA board, works perfectly).
