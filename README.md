@@ -23,4 +23,4 @@ You can just skip this pain-in-ass steps and download my precompiled plugin. Jus
 If not working try to install **MSVC 2022 x64 Runtime Redistributable** package from official Microsoft site.
 
 ## How to check if it works
-After installing and activating plugin console window with logs will show up and when you open process list in CE to attach you will see all processess of your DMA Host PC. If you have DMA card USB connected it have to detect it immediately and list all processess of your Host PC, you don't have to install extra drivers or something else, DMA USB interface is usually Plug & Play on Windows.
+After installing and activating plugin console window with logs will show up and when you open process list in CE to attach you will see all processess of your DMA Host PC. If you have DMA card USB connected it have to detect it immediately and list all processess of your Host PC, you don't have to install extra drivers or something else, DMA USB interface is usually Plug & Play on Windows (Tested on CaptainDMA board, works perfectly).
