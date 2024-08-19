@@ -15,7 +15,7 @@ To compile it's on your own, you have to manualy download next repositories:
 8. Compile plugin in Release x64
 9. Put compiled **plugin.dll** file into **prepared folder** with those 3 DLLs.
 10. Now copy all 4 files from **prepared folder** to CE 7.5 directory, say **Yes** to replace lua53-64.dll
-11. Launch Cheat Engine 7.5 **x64** (not i386 !!!)
+11. Launch Cheat Engine 7.5 **x64** (not i386 !!!) and try to add your plugin. **You shouldn't have error 126.**
 12. Now your added plugin will work
 
 ## Download precompiled plugin binaries
