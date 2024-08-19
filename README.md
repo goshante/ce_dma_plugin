@@ -5,7 +5,7 @@ Based on this repository: https://github.com/Metick/CheatEngine-DMA
 Because it's very tricky to find out how to compile it right way. 
 
 To compile it's on your own, you have to manualy download next repositories:
-1. https://github.com/ufrisk/LeechCore for **leechcore** library (You also have to download OLDER COMMIT version **2.18.4**)
+1. https://github.com/ufrisk/LeechCore for **leechcore** library (You also have to download OLDER COMMIT version of repository, download whole repository on commit version **2.18.4**)
 2. https://github.com/ufrisk/MemProcFS for **vmm** library
 3. https://github.com/cheat-engine/cheat-engine for **lua53-64** library
 4. Compile them all in x64 Release mode with same Win10 SDK version
