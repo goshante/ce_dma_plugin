@@ -19,7 +19,7 @@ To compile it's on your own, you have to manualy download next repositories:
 12. Now your added plugin will work
 
 ## Download precompiled plugin binaries
-You can just skip this pain-in-ass steps and download my precompiled plugin. Just put it into CE 7.5 directory and agree to replace **lua53-64.dll**. It should work perfectly, just **don't forget to add it into plugin list in CE Settings and check it enabled**.
+You can just skip this pain-in-ass steps and download my precompiled plugin (Precompiled files are in current repository, you can see). Just put it into CE 7.5 directory and agree to replace **lua53-64.dll**. It should work perfectly, just **don't forget to add it into plugin list in CE Settings and check it enabled**.
 If not working try to install **MSVC 2022 x64 Runtime Redistributable** package from official Microsoft site.
 
 ## How to check if it works
